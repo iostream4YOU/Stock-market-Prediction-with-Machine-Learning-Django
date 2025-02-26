@@ -41,7 +41,7 @@ Aim: To predict stock prices according to real-time data values fetched from API
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django.git
+  git clone https://github.com/iostream4YOU/-Stock-market-Prediction-with-Machine-Learning-Django.git
 ```
 
 **STEP 2:** Change the directory to the repository.
