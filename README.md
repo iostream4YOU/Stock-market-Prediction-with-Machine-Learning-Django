@@ -111,10 +111,6 @@ Our Stock Price Prediction with Machine Learning website, utilizing linear regre
 With easy-to-use interfaces and insightful graphs, users can make informed investment decisions.
 We provide comprehensive ticker information and ensure accurate predictions through our machine learning algorithms.
 
-## Report PDF  of Project.
-[Final Report.pdf](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/files/11960207/Final.Report.KUKBIT.pdf)
-
-
 
 ## Thank you!
 
