@@ -1,8 +1,3 @@
-[//]: # (Hello welcome to my project 
-  This project is already uploaded to my GitHub https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django.git
-)
-
-
 ![iStock-1349355855](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/c8d3869e-363c-4b95-bf4c-2462f8172519)
 
 
